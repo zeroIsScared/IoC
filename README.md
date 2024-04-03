@@ -10,6 +10,7 @@ What problems do you think the speaker class has?
 -It has a large register method that is responsible for more than one operation;
 -It is using a lot of negative conditional
 -It is using a lot of nesting, which leads to reduced readability and increased complexity. It is also making it hard to test and reuse.
+-It also has a lot unrelevant comments
 
 Which clean code principles (or general programming principles) did it violate?
 -the single responsibility principle 
