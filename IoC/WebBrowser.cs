@@ -1,8 +1,6 @@
-﻿using System;
-
-namespace BusinessLayer
+﻿namespace BusinessLayer
 {
-	public class WebBrowser
+    public class WebBrowser
 	{
 		public BrowserName Name { get; set; }
 		public int MajorVersion { get; set; }
